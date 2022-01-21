@@ -1,3 +1,7 @@
+**App Overview**
+
+This `onlinecourse` app allows users to build courses and update content.
+
 
 **General Notes**
 
